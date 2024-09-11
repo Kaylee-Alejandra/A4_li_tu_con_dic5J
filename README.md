@@ -11,4 +11,12 @@ ejemplo python sobre listas, tuplas, conjuntos diciplinarios
  - resultado
  - ![image](https://github.com/user-attachments/assets/be3c0b6a-27dd-4b83-8dd7-a4ebb5eb70bf)
 
+## Ejemplo de conjunto 
+-codigo
+-![image](https://github.com/user-attachments/assets/5ee46e0e-923d-4946-89de-4e47ed3ccafe)
+-resultado 
+![image](https://github.com/user-attachments/assets/11860da6-a20d-43b7-93ea-1982c22702a9)
+
+
+
 
